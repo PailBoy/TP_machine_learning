@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8655104-0cca-458c-bbfa-4473dd3a17ec" name="Changes" comment="TP1 dernier ajout">
-      <change afterPath="$PROJECT_DIR$/TP2/TP2_Bayesian_Networks.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TP2/Tutorial_PGMPY_statement.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a8655104-0cca-458c-bbfa-4473dd3a17ec" name="Changes" comment="TP1 dernier ajout" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +79,7 @@
       <workItem from="1759742504427" duration="6813000" />
       <workItem from="1759751353312" duration="310000" />
       <workItem from="1759751748065" duration="24000" />
+      <workItem from="1759831032945" duration="58000" />
     </task>
     <task id="LOCAL-00001" summary="TP1">
       <option name="closed" value="true" />
@@ -140,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759751488115</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="TP1 dernier ajout">
+      <option name="closed" value="true" />
+      <created>1759831055518</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1759831055518</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
